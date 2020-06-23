@@ -74,14 +74,14 @@
 		<main id="main" class="site-main" role="main">
 
 			
-<article id="post-18" class="post-18 post type-post status-publish format-standard hentry category-uncategorized tag-avocado tag-basil tag-boiled-egg tag-breakfast tag-brunch tag-easy-boiled-egg tag-easy-runny-egg tag-easy-runny-yolk tag-easy-soft-boiled-egg tag-ezekiel-bread tag-healthy tag-runny-egg tag-runny-yolk tag-soft-boiled-egg tag-sprouted-wheat-bread tag-toast tag-whole-wheat">
+<article id="post-18" class="post-18 post type-post status-publish format-standard hentry category-uncategorized tag-avocado tag-basil tag-boiled-egg tag-breakfast tag-brunch tag-easy-boiled-egg tag-easy-runny-egg tag-easy-runny-yolk tag-easy-soft-boiled-egg tag-ezekiel-bread tag-healthy tag-runny-egg tag-runny-yolk tag-soft-boiled-egg tag-sprouted-wheat-bread tag-toast tag-vegetarian tag-whole-wheat">
 		<header class="entry-header">
-		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark"><time class="entry-date published updated" datetime="2020-06-23T06:54:41+00:00">June 23, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark">Avocado Toast with Perfectly Runny Boiled Egg</a></h3>	</header><!-- .entry-header -->
+		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark"><time class="entry-date published" datetime="2020-06-23T06:54:41+00:00">June 23, 2020</time><time class="updated" datetime="2020-06-23T20:21:02+00:00">June 23, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark">Avocado Toast with Perfectly Runny Boiled Egg</a></h3>	</header><!-- .entry-header -->
 
 	
 	<div class="entry-content">
 		
-<figure class="wp-block-image"><img src="blob:https://ayeshakitchen.com/a4a35982-c03e-4dee-885f-ba7027a6b6f9" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://ayeshakitchen.com/wp-content/uploads/2020/06/9A72F91E-0F8F-45B9-863B-392BCB90C58C_1_105_c.jpeg" alt="" class="wp-image-117" srcset="https://ayeshakitchen.com/wp-content/uploads/2020/06/9A72F91E-0F8F-45B9-863B-392BCB90C58C_1_105_c.jpeg 1024w, https://ayeshakitchen.com/wp-content/uploads/2020/06/9A72F91E-0F8F-45B9-863B-392BCB90C58C_1_105_c-300x225.jpeg 300w, https://ayeshakitchen.com/wp-content/uploads/2020/06/9A72F91E-0F8F-45B9-863B-392BCB90C58C_1_105_c-768x576.jpeg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
 
 
 
