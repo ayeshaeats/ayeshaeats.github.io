@@ -74,6 +74,75 @@
 		<main id="main" class="site-main" role="main">
 
 			
+<article id="post-18" class="post-18 post type-post status-publish format-standard hentry category-uncategorized tag-avocado tag-basil tag-boiled-egg tag-breakfast tag-brunch tag-easy-boiled-egg tag-easy-runny-egg tag-easy-runny-yolk tag-easy-soft-boiled-egg tag-ezekiel-bread tag-healthy tag-runny-egg tag-runny-yolk tag-soft-boiled-egg tag-sprouted-wheat-bread tag-toast tag-whole-wheat">
+		<header class="entry-header">
+		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark"><time class="entry-date published updated" datetime="2020-06-23T06:54:41+00:00">June 23, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/" rel="bookmark">Avocado Toast with Perfectly Runny Boiled Egg</a></h3>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img src="blob:https://ayeshakitchen.com/a4a35982-c03e-4dee-885f-ba7027a6b6f9" alt=""/></figure>
+
+
+
+<p>Tastes like a poached egg without the fuss!</p>
+
+
+
+<p>As my boyfriend described it &#8211; a very simple but supremely satisfying meal for any time of the day!</p>
+
+
+
+<p>Ingredients:</p>
+
+
+
+<p>1 avocado</p>
+
+
+
+<p>2 tbsp lemon juice</p>
+
+
+
+<p>6 basil leaves</p>
+
+
+
+<p>½ tsp garlic powder</p>
+
+
+
+<p>1 tsbp chili flakes</p>
+
+
+
+<p>¼ tsp salt</p>
+
+
+
+<p>2 eggs</p>
+
+
+
+<p>2 pieces of sprouted wheat toast*</p>
+
+
+
+<p>Instruction:</p>
+
+
+
+<ol><li>Add 6inch of water to a small sauce pan and bring to boil. Add eggs and boil for 6min. Immediately immerse the eggs in cool water from the sink. Peel the eggs carefully.</li><li>Toast your bread.</li><li>Add avocado, lemon juice, torn basil leaves, garlic powder, chili flakes and salt to a bowl and mash together till as smooth as you like it.</li><li>Put half of the avocado mixture on each piece of toast and add 1 egg that you cut in half on the toast since the yolk will be very runny. Enjoy!</li></ol>
+
+
+
+<p>*We love the <a href="https://amzn.to/319oYV0" target="_blank" rel="noreferrer noopener">Ezekiel brand</a>.</p>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-18 -->
+
 <article id="post-9" class="post-9 post type-post status-publish format-standard hentry category-uncategorized tag-healthy-sushi tag-homemade-sushi tag-homemade-sushi-recipe tag-sushi-recipe tag-vegetarian-sushi tag-vegetarian-sushi-recipe tag-whole-grain tag-whole-grain-sushi tag-whole-grain-sushi-recipe">
 		<header class="entry-header">
 		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="https://ayeshakitchen.com/index.php/2020/06/19/vegetarian-sushi/" rel="bookmark"><time class="entry-date published updated" datetime="2020-06-19T05:40:59+00:00">June 19, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="https://ayeshakitchen.com/index.php/2020/06/19/vegetarian-sushi/" rel="bookmark">Vegetarian Sushi</a></h3>	</header><!-- .entry-header -->
@@ -253,6 +322,9 @@
 	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Search</span></button>
 </form>
 </section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+											<li>
+					<a href="https://ayeshakitchen.com/index.php/2020/06/23/avocado-toast-with-perfectly-runny-boiled-egg/">Avocado Toast with Perfectly Runny Boiled Egg</a>
+									</li>
 											<li>
 					<a href="https://ayeshakitchen.com/index.php/2020/06/19/vegetarian-sushi/">Vegetarian Sushi</a>
 									</li>
